@@ -5,4 +5,4 @@ The data is pulled from Kaggle and includes information about individual Yeezy s
 
 https://www.kaggle.com/hudsonstuck/stockx-data-contest
 
-Major Contributors: Celeste Chaidez, Sharon Stephen, Tamara Jefferson
+<b>Major Contributors:<b> Celeste Chaidez, Sharon Stephen, Tamara Jefferson
