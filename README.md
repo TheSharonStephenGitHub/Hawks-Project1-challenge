@@ -1,2 +1,2 @@
 # Project-1-Hawks-
-Repo for Data Viz project 1
+This is a complete analysis of the Yeezy Market
